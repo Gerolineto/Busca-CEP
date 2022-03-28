@@ -1,7 +1,7 @@
 
 # 🗺 Buscador de CEP
 
-Projeto desenvolvido em React como framework.
+Projeto desenvolvido utilizando React como framework.
 
 - HTML
 - CSS
