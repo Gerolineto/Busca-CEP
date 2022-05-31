@@ -3,6 +3,7 @@
 
 Projeto desenvolvido utilizando React como framework.
 
+- React
 - HTML
 - CSS
 - JS
